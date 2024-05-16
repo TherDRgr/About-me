@@ -42,16 +42,27 @@ opacity: 0.8;
 }
 
 .main h3{
-  margin-right: 31.5%;
   color: #66cb9a;
+}
+
+.main h4{
+  color: #66cb9a;
+  padding-bottom: 0.5em;
 }
 
 .main p{
   text-align: justify;
-  padding-top: 0.5em;
+  padding-top: 1em;
   margin-right: 40%;
   color: #929798;
-  font-size: smaller;
+  font-size: 0.7em;
+}
+
+.solid {
+  border: 1px solid;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
 }
 
 /* about me */
@@ -88,6 +99,10 @@ margin: 0.5em;
 .about-me-description li{
   font-size: 1em;
   color: #929798;
+}
+
+.about-me-description h2{
+  opacity: 0.8;
 }
 
 
