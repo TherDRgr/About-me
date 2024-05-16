@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  background-color: #0E181B;
+  background-color: #20131a;
   background-image: url(texture.png);
   background-repeat: repeat; 
 }
@@ -39,7 +39,7 @@ text-shadow: 0.1em 0.1em #000000;
 
 .main h3{
   margin-right: 31.5%;
-  color: #a1ac56;
+  color: #66cb9a;
 }
 
 .main p{
@@ -59,21 +59,28 @@ text-shadow: 0.1em 0.1em #000000;
   margin-right: auto;
   border-radius: 5%;
   align-self: start;
+  box-shadow: 0.5em 0.5em #66cb9a;
 }
 
 .about-me{
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin: 2em;
-}
+  justify-items: center;
+  }
 
 .about-me-description {
-  font-size: 1.5em;
+  font-size: 0.7em;
   color: #fff;
 }
 
 .hobbies{
   margin: 0px 300px;
+  color: #66cb9a;
+}
+
+.hobbies li{
+  text-align: justify;
 }
 
 
