@@ -1,2 +1,3 @@
 # About-me
-One Code Camp Git Practice
+One Code Camp Day 3 HTML Practice
+
