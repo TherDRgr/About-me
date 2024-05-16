@@ -32,9 +32,11 @@ body {
 }
 
 .main h1{
+font-style: italic;
 font-weight: 700;
-font-size: 6em;
+font-size: 5em;
 text-shadow: 0.1em 0.1em #000000;
+opacity: 0.8;
 }
 
 .main h3{
